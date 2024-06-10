@@ -24,7 +24,7 @@ nav{
 	align-items: center;
 	justify-content: space-between;
 	flex-wrap: wrap;
-	backdrop-filter: blur(12px);
+	backdrop-filter: blur(30px);
 	position: fixed;
 	top: 0;
 	right: 0;
